@@ -1,0 +1,115 @@
+#us #nrone img {
+  width: 100%;
+}
+
+#us #nrtwo {
+  margin-top: 40px;
+}
+
+#us #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 24px;
+}
+
+#us #nrtwo .title h2 {
+  font-size: 24px;
+  color: #FFD6B0;
+  font-family: NSimSun;
+  font-weight: normal;
+}
+
+#us #nrtwo .title h4 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+  color: #333333;
+}
+
+#us #nrthree > h2 {
+  font-style: italic;
+  font-size: 30px;
+  margin-bottom: 30px;
+  letter-spacing: 3px;
+}
+
+#us #nrthree .contact {
+  display: flex;
+  height: 250px;
+  background: #E7E7E7;
+}
+
+#us #nrthree .contact .uptext, #us #nrthree .contact .lefttext, #us #nrthree .contact .righttext, #us #nrthree .contact .right {
+  display: flex;
+  align-items: center;
+}
+
+#us #nrthree .contact .uptext .text, #us #nrthree .contact .lefttext .text, #us #nrthree .contact .righttext .text, #us #nrthree .contact .right .text {
+  margin-left: 16px;
+}
+
+#us #nrthree .contact .left .uptext {
+  padding-top: 50px;
+  margin-left: 38px;
+}
+
+#us #nrthree .contact .left .uptext .text h3 {
+  font-size: 16px;
+}
+
+#us #nrthree .contact .left .uptext .text h2 {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#us #nrthree .contact .left .downtext {
+  display: flex;
+  margin-top: 36px;
+  margin-left: 38px;
+}
+
+#us #nrthree .contact .left .downtext .lefttext .text h5 {
+  font-weight: normal;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#us #nrthree .contact .left .downtext .righttext {
+  margin-left: 109px;
+}
+
+#us #nrthree .contact .left .downtext .righttext .text h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+#us #nrthree .contact .left .downtext .righttext .text h5 {
+  font-weight: normal;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#us #nrthree .contact .right {
+  margin-left: 178px;
+}
+
+#us #nrthree .contact .right .weibo {
+  margin-left: 115px;
+}
+
+#us #nrthree .contact .right .wechat img, #us #nrthree .contact .right .weibo img {
+  width: 120px;
+  height: 120px;
+}
+
+#us #nrthree .contact .right .wechat h4, #us #nrthree .contact .right .weibo h4 {
+  text-align: center;
+  font-size: 14px;
+}
+
+#us #nrthree .map img {
+  width: 1200px;
+  height: 524px;
+}

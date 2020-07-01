@@ -1,0 +1,136 @@
+#newslist #nrone img {
+  width: 100%;
+}
+
+#newslist #nrtwo {
+  margin-top: 40px;
+}
+
+#newslist #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 24px;
+}
+
+#newslist #nrtwo .title h2 {
+  font-size: 24px;
+  color: #FFD6B0;
+  font-family: NSimSun;
+  font-weight: normal;
+}
+
+#newslist #nrtwo .title h4 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+  color: #333333;
+}
+
+#newslist #nrtwo .lunbo {
+  margin-top: 25px;
+}
+
+#newslist #nrtwo .lunbo .news .big, #newslist #nrtwo .lunbo .knowledge .big, #newslist #nrtwo .lunbo .wiki .big {
+  position: relative;
+}
+
+#newslist #nrtwo .lunbo .news .big a > img, #newslist #nrtwo .lunbo .knowledge .big a > img, #newslist #nrtwo .lunbo .wiki .big a > img {
+  display: inline-block;
+  width: 743px;
+  height: 427px;
+}
+
+#newslist #nrtwo .lunbo .news .big a .text, #newslist #nrtwo .lunbo .knowledge .big a .text, #newslist #nrtwo .lunbo .wiki .big a .text {
+  padding: 29px 78px 0 36px;
+  position: absolute;
+  top: 65px;
+  left: 678px;
+  display: inline-block;
+  width: 406px;
+  height: 275px;
+  background: #fff;
+  color: #333333;
+  box-shadow: 0 0 15px #7d7d7d;
+}
+
+#newslist #nrtwo .lunbo .news .big a .text span, #newslist #nrtwo .lunbo .knowledge .big a .text span, #newslist #nrtwo .lunbo .wiki .big a .text span {
+  font-size: 14px;
+}
+
+#newslist #nrtwo .lunbo .news .big a .text h3, #newslist #nrtwo .lunbo .knowledge .big a .text h3, #newslist #nrtwo .lunbo .wiki .big a .text h3 {
+  margin-top: 37px;
+  margin-right: 69px;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
+
+#newslist #nrtwo .lunbo .news .big a .text p, #newslist #nrtwo .lunbo .knowledge .big a .text p, #newslist #nrtwo .lunbo .wiki .big a .text p {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+#newslist #nrtwo .lunbo .news .big a .text img, #newslist #nrtwo .lunbo .knowledge .big a .text img, #newslist #nrtwo .lunbo .wiki .big a .text img {
+  margin-top: 43px;
+}
+
+#newslist #nrtwo .lunbo .news .small, #newslist #nrtwo .lunbo .knowledge .small, #newslist #nrtwo .lunbo .wiki .small {
+  margin-top: 10px;
+  box-shadow: 2px 2px 2px #c8c8c8;
+  position: relative;
+}
+
+#newslist #nrtwo .lunbo .news .small a > img, #newslist #nrtwo .lunbo .knowledge .small a > img, #newslist #nrtwo .lunbo .wiki .small a > img {
+  width: 340px;
+  height: 195px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .new, #newslist #nrtwo .lunbo .knowledge .small a .new, #newslist #nrtwo .lunbo .wiki .small a .new {
+  float: left;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text, #newslist #nrtwo .lunbo .knowledge .small a .text, #newslist #nrtwo .lunbo .wiki .small a .text {
+  height: 195px;
+  display: flex;
+  align-items: center;
+  color: #333333;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .left, #newslist #nrtwo .lunbo .knowledge .small a .text .left, #newslist #nrtwo .lunbo .wiki .small a .text .left {
+  margin-left: 15px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .left h2, #newslist #nrtwo .lunbo .knowledge .small a .text .left h2, #newslist #nrtwo .lunbo .wiki .small a .text .left h2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .left span, #newslist #nrtwo .lunbo .knowledge .small a .text .left span, #newslist #nrtwo .lunbo .wiki .small a .text .left span {
+  font-weight: bold;
+  font-size: 12px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .right, #newslist #nrtwo .lunbo .knowledge .small a .text .right, #newslist #nrtwo .lunbo .wiki .small a .text .right {
+  margin-left: 95px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .right h3, #newslist #nrtwo .lunbo .knowledge .small a .text .right h3, #newslist #nrtwo .lunbo .wiki .small a .text .right h3 {
+  font-size: 14px;
+}
+
+#newslist #nrtwo .lunbo .news .small a .text .right h4, #newslist #nrtwo .lunbo .knowledge .small a .text .right h4, #newslist #nrtwo .lunbo .wiki .small a .text .right h4 {
+  width: 350px;
+  font-size: 12px;
+  font-weight: normal;
+  margin-top: 22px;
+  color: #666666;
+}
+
+#newslist #nrtwo .lunbo .news .small a .more, #newslist #nrtwo .lunbo .knowledge .small a .more, #newslist #nrtwo .lunbo .wiki .small a .more {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 54px;
+  right: 42px;
+}

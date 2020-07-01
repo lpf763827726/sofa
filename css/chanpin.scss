@@ -1,0 +1,72 @@
+#chanpin{
+    #nrone{
+        img{
+            width: 100%;
+        }
+    }
+    #nrtwo{
+        margin-top: 40px;
+        .dh{
+            font-size: 12px;
+            font-weight: bold;
+            span{
+                margin: 0 8px;
+            }
+            p{
+                color: #333333;
+                display: inline-block;
+            }
+        }
+        .title{
+            position: relative;
+            text-align: center;
+            margin: 30px 0 24px;
+            h2{
+                font-size: 24px;
+                color: #FFD6B0;
+                font-family: NSimSun;
+                font-weight: normal;
+            }
+            h4{
+                position: absolute;
+                top: 12px;
+                left: 0;
+                right: 0;
+                font-size: 14px;
+                color: #333333;
+            }
+        }
+        .product{
+            span{
+                width: 42px;
+                left: 0;
+            }
+        }
+        .lunbo{
+            position: relative;
+            width: 1200px;
+            display: inline-block;
+            margin-top: 40px;
+            .goods{
+                display: flex;
+                flex-flow: wrap;
+                justify-content: space-between;
+                a{
+                    width: 380px;
+                    height: 330px;
+                    text-align: center;
+                    margin-bottom: 30px;
+                    img{
+                        width: 380px;
+                        height: 300px;
+                    }
+                    h4{
+                        margin-top: 15px;
+                        color: #2F2B27;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}

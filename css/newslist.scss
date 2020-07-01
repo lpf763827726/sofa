@@ -1,0 +1,123 @@
+#newslist {
+    #nrone{
+        img{
+            width: 100%;
+        }
+    }
+    #nrtwo{
+        margin-top: 40px;
+        .title{
+            position: relative;
+            text-align: center;
+            margin: 30px 0 24px;
+            h2{
+                font-size: 24px;
+                color: #FFD6B0;
+                font-family: NSimSun;
+                font-weight: normal;
+            }
+            h4{
+                position: absolute;
+                top: 12px;
+                left: 0;
+                right: 0;
+                font-size: 14px;
+                color: #333333;
+            }
+        }
+        .lunbo{
+            margin-top: 25px;
+            .news,.knowledge,.wiki{
+                .big{
+                    position: relative;
+                    a{
+                        >img{
+                            display: inline-block;
+                            width: 743px;
+                            height: 427px;
+                        }
+                        .text{
+                            padding: 29px 78px 0 36px;
+                            position: absolute;
+                            top: 65px;
+                            left: 678px;
+                            display: inline-block;
+                            width: 406px;
+                            height: 275px;
+                            background: #fff;
+                            color: #333333;
+                            box-shadow: 0 0 15px rgb(125, 125, 125);
+                            span{
+                                font-size: 14px;
+                            }
+                            h3{
+                                margin-top: 37px;
+                                margin-right: 69px;
+                                letter-spacing: 2px;
+                                font-size: 20px;
+                            }
+                            p{
+                                margin-top: 20px;
+                                font-size: 14px;
+                            }
+                            img{
+                                margin-top: 43px;
+                            }
+                        }
+                    }
+                }
+                .small{
+                    margin-top: 10px;
+                    box-shadow: 2px 2px 2px rgb(200, 200, 200);
+                    position: relative;
+                    a{
+                        >img{
+                            width: 340px;
+                            height: 195px;
+                        }
+                        .new{
+                            float: left;
+                        }
+                        .text{
+                            height: 195px;
+                            display: flex;
+                            align-items: center;
+                            color: #333333;
+                            .left{
+                                margin-left: 15px;
+                                h2{
+                                    text-align: center;
+                                    font-size: 30px;
+                                }
+                                span{
+                                    font-weight: bold;
+                                    font-size: 12px;
+                                }
+                            }
+                            .right{
+                                margin-left: 95px;
+                                h3{
+                                    font-size: 14px;
+                                }
+                                h4{
+                                    width: 350px;
+                                    font-size: 12px;
+                                    font-weight: normal;
+                                    margin-top: 22px;
+                                    color: #666666;
+                                }
+                            }
+                        }
+                        .more{
+                            width: 20px;
+                            height: 20px;
+                            position: absolute;
+                            top: 54px;
+                            right: 42px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

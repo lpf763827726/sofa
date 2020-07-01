@@ -1,0 +1,79 @@
+#chanpin #nrone img {
+  width: 100%;
+}
+
+#chanpin #nrtwo {
+  margin-top: 40px;
+}
+
+#chanpin #nrtwo .dh {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#chanpin #nrtwo .dh span {
+  margin: 0 8px;
+}
+
+#chanpin #nrtwo .dh p {
+  color: #333333;
+  display: inline-block;
+}
+
+#chanpin #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 24px;
+}
+
+#chanpin #nrtwo .title h2 {
+  font-size: 24px;
+  color: #FFD6B0;
+  font-family: NSimSun;
+  font-weight: normal;
+}
+
+#chanpin #nrtwo .title h4 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+  color: #333333;
+}
+
+#chanpin #nrtwo .product span {
+  width: 42px;
+  left: 0;
+}
+
+#chanpin #nrtwo .lunbo {
+  position: relative;
+  width: 1200px;
+  display: inline-block;
+  margin-top: 40px;
+}
+
+#chanpin #nrtwo .lunbo .goods {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+
+#chanpin #nrtwo .lunbo .goods a {
+  width: 380px;
+  height: 330px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#chanpin #nrtwo .lunbo .goods a img {
+  width: 380px;
+  height: 300px;
+}
+
+#chanpin #nrtwo .lunbo .goods a h4 {
+  margin-top: 15px;
+  color: #2F2B27;
+  font-size: 14px;
+}

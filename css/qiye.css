@@ -1,0 +1,112 @@
+#qiye #nrone img {
+  width: 100%;
+}
+
+#qiye #nrtwo {
+  margin-top: 40px;
+}
+
+#qiye #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 24px;
+}
+
+#qiye #nrtwo .title h2 {
+  font-size: 24px;
+  color: #FFD6B0;
+  font-family: NSimSun;
+  font-weight: normal;
+}
+
+#qiye #nrtwo .title h4 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+  color: #333333;
+}
+
+#qiye #nrtwo .lunbo > div {
+  display: none;
+  transition: 0.5s;
+}
+
+#qiye #nrtwo .lunbo {
+  margin-top: 25px;
+}
+
+#qiye #nrtwo .lunbo .factory {
+  margin-bottom: 17px;
+  position: relative;
+}
+
+#qiye #nrtwo .lunbo .factory .big {
+  width: 1920px;
+  margin-left: -360px;
+}
+
+#qiye #nrtwo .lunbo .factory h2 {
+  margin-top: 22px;
+  font-size: 16px;
+  color: #343434;
+}
+
+#qiye #nrtwo .lunbo .factory .nrleft {
+  display: flex;
+  margin-top: 45px;
+}
+
+#qiye #nrtwo .lunbo .factory .nrleft img {
+  width: 547px;
+  height: 370px;
+}
+
+#qiye #nrtwo .lunbo .factory .nrleft .text {
+  width: 421px;
+  display: inline-block;
+  margin-top: 45px;
+  margin-left: 119px;
+}
+
+#qiye #nrtwo .lunbo .factory .nrleft .text h3 {
+  font-size: 16px;
+  color: #343434;
+}
+
+#qiye #nrtwo .lunbo .factory .nrleft .text p {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+}
+
+#qiye #nrtwo .lunbo .factory .nrright {
+  margin-top: 35px;
+  text-align: right;
+}
+
+#qiye #nrtwo .lunbo .factory .nrright .text {
+  position: relative;
+  bottom: 18px;
+  text-align: left;
+  width: 421px;
+  display: inline-block;
+  margin-right: 81px;
+}
+
+#qiye #nrtwo .lunbo .factory .nrright .text h3 {
+  font-size: 16px;
+  color: #343434;
+}
+
+#qiye #nrtwo .lunbo .factory .nrright .text p {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+}
+
+#qiye #nrtwo .lunbo .factory .nrright img {
+  width: 547px;
+  height: 375px;
+}

@@ -1,0 +1,75 @@
+#newnr #nrone img {
+  width: 100%;
+}
+
+#newnr #nrtwo {
+  margin-top: 40px;
+}
+
+#newnr #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 24px;
+}
+
+#newnr #nrtwo .title h1 {
+  font-size: 16px;
+  color: #333333;
+}
+
+#newnr #nrthree {
+  margin-top: 40px;
+  margin-bottom: 84px;
+}
+
+#newnr #nrthree .show .nr {
+  margin-bottom: 114px;
+}
+
+#newnr #nrthree .show .nr img {
+  display: block;
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+#newnr #nrthree .show .nr h5 {
+  font-weight: normal;
+  font-size: 14px;
+  margin: 35px 0;
+}
+
+#newnr #nrthree .show .lianjie {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 45px;
+}
+
+#newnr #nrthree .show .lianjie a {
+  color: #656565;
+  font-size: 14px;
+}
+
+#newnr #nrfour .relevant h5 {
+  margin-left: 1px;
+  margin-bottom: 39px;
+  font-weight: normal;
+  font-size: 14px;
+}
+
+#newnr #nrfour .relevant .nrkuang {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+#newnr #nrfour .relevant .nrkuang img {
+  width: 380px;
+  height: 300px;
+  margin-bottom: 5px;
+}
+
+#newnr #nrfour .relevant .nrkuang a {
+  color: #2F2B27;
+  font-size: 14px;
+  font-weight: bold;
+}

@@ -1,0 +1,61 @@
+#story #nrone img {
+  width: 100%;
+}
+
+#story #nrtwo {
+  margin-top: 40px;
+}
+
+#story #nrtwo .dh {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#story #nrtwo .dh a {
+  color: #333333;
+}
+
+#story #nrtwo .dh span {
+  margin: 0 8px;
+}
+
+#story #nrtwo .dh p {
+  display: inline-block;
+}
+
+#story #nrtwo .title {
+  position: relative;
+  text-align: center;
+  margin: 30px 0 39px;
+}
+
+#story #nrtwo .title h2 {
+  font-size: 24px;
+  color: #FFD6B0;
+  font-family: NSimSun;
+  font-weight: normal;
+}
+
+#story #nrtwo .title h4 {
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  font-size: 14px;
+  color: #333333;
+}
+
+#story #nrthree {
+  margin-bottom: 84px;
+}
+
+#story #nrthree img {
+  width: 1200px;
+  height: 454px;
+}
+
+#story #nrfour h2 {
+  margin: 0 auto;
+  width: 72px;
+  font-size: 72px;
+}

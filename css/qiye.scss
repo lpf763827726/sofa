@@ -1,0 +1,97 @@
+#qiye{
+    #nrone{
+        img{
+            width: 100%;
+        }
+    }
+    #nrtwo{
+        margin-top: 40px;
+        .title{
+            position: relative;
+            text-align: center;
+            margin: 30px 0 24px;
+            h2{
+                font-size: 24px;
+                color: #FFD6B0;
+                font-family: NSimSun;
+                font-weight: normal;
+            }
+            h4{
+                position: absolute;
+                top: 12px;
+                left: 0;
+                right: 0;
+                font-size: 14px;
+                color: #333333;
+            }
+        }
+        .lunbo>div{
+            display: none;
+            transition: 0.5s;
+        }
+        .lunbo{
+            margin-top: 25px;
+            .factory{
+                margin-bottom: 17px;
+                position: relative;
+                .big{
+                    width: 1920px;
+                    margin-left: -360px;
+                }
+                h2{
+                    margin-top: 22px;
+                    font-size: 16px;
+                    color: #343434;
+                }
+                .nrleft{
+                    display: flex;
+                    margin-top: 45px;
+                    img{
+                        width: 547px;
+                        height: 370px;
+                    }
+                    .text{
+                        width: 421px;
+                        display: inline-block;
+                        margin-top: 45px;
+                        margin-left: 119px;
+                        h3{
+                            font-size: 16px;
+                            color: #343434;
+                        }
+                        p{
+                            margin-top: 20px;
+                            font-size: 14px;
+                            color: #666;
+                        }
+                    }
+                }
+                .nrright{
+                    margin-top: 35px;
+                    text-align: right;
+                    .text{
+                        position: relative;
+                        bottom: 18px;
+                        text-align: left;
+                        width: 421px;
+                        display: inline-block;
+                        margin-right: 81px;
+                        h3{
+                            font-size: 16px;
+                            color: #343434;
+                        }
+                        p{
+                            margin-top: 20px;
+                            font-size: 14px;
+                            color: #666;
+                        }
+                    }
+                    img{
+                        width: 547px;
+                        height: 375px;
+                    }
+                }
+            }
+        }
+    }
+}
